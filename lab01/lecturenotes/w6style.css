@@ -1,0 +1,11 @@
+/*grpuped selector, will style all h1's and p's*/
+h1 {color:aqua;
+
+    font-size: 80%
+    font-family: arial, helvetica, sans-serif; 
+}
+p{color:darkred;}
+/* this is out basic element selector every p in the page gets styled */
+#secondparagraph {color:aquamarine}
+/* this style is a class*/
+.purpletext{color:purple} 
